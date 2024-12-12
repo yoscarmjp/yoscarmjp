@@ -45,10 +45,6 @@ Soy un **desarrollador web** apasionado por **Crear proyectos innovadores y comp
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoscarmjp&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoscarmjp&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-
 ---
 
 ## 🧩 Proyectos Destacados  
