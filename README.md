@@ -42,7 +42,6 @@ Soy un **desarrollador web** apasionado por **Crear proyectos innovadores y comp
 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoscarmjp&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoscarmjp&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
