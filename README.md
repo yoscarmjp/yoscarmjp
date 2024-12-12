@@ -67,19 +67,16 @@ _Descripción breve del proyecto_: plataforma de gestión académica y administr
 ## 🌐 Encuéntrame en  
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://linkedin.com/in/yoscarmjp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tuUsuario" target="_blank">
+  <a href="https://twitter.com/yoscarmjp" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://joeldev-portafolio.netlify.app/" target="_blank">
+  <a href="https://yoscarmjp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-%23f39c12.svg?&style=for-the-badge&logo=Firefox&logoColor=white" alt="Portafolio" />
   </a>
 </p>
-
----
-
 
 ---
 
